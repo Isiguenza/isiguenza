@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://media.discordapp.net/attachments/856712471774494720/1137136613214929039/memoji_git.png?width=2268&height=1130" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Iñaki Sigüenza</h1>
