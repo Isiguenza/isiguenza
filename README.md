@@ -8,7 +8,7 @@
   <img src="https://your‑avatar.url/avatar.png" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
 </p>
 
-<h1 align="center" style="font-weight: 300;">Iñaki Siguenza Sr.</h1>
+<h1 align="center" style="font-weight: 300;">Iñaki Siguenza</h1>
 <p align="center" style="font-weight: 500; color: #6e6e6e;">
   Senior iOS Developer • Front‑End & Mobile Applications • UX Enthusiast
 </p>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/inaki_siguenza" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter‑1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/twitter/url" alt="Twitter">
   </a>
   <a href="mailto:inaki.siguenza@example.com">
     <img src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
