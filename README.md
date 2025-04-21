@@ -1,75 +1,99 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/856712471774494720/1137136613214929039/memoji_git.png?width=2268&height=1130" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Iñaki Sigüenza</h1>
-<h3 align="center">Animation & Videogames Engenieer | iOS Lab Manager @ Universidad Panamericana | Front-End Developer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
-</p>
-
-
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║   Iñaki Siguenza Sr. – iOS Developer | Front‑End & Mobile Expert  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
 <p align="center">
-  <em>
-    My name is, Iñaki, a <b>Engenieer</b> graduated from the<a href="https://up.edu.mx/"> <b>Universidad Panamericana</b>,</a>. <br>
-    I´m the <b>Lab Manager</b> from Apple development lab @ UP and <b>Design Enthusiast</b>&nbsp;&nbsp,<br>fully <b>dedicated</b>
-    to my projects
-  </em> 
-  <br>
-   <b><i>#EveryoneCanCode</i></b>
+  <img src="https://your‑avatar.url/avatar.png" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
 </p>
 
+<h1 align="center" style="font-weight: 300;">Iñaki Siguenza Sr.</h1>
+<p align="center" style="font-weight: 500; color: #6e6e6e;">
+  Senior iOS Developer • Front‑End & Mobile Applications • UX Enthusiast
+</p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/inaki‑siguenza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/inaki_siguenza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter‑1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:inaki.siguenza@example.com">
+    <img src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-***More about me...***
+---
 
-✔ I’m currently Developing **Arcadia** Task manager **@iOSLabUPMX**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
- 
+## 👨‍💻 About Me
 
-***Languages & Tools***
-<p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+Highly driven Front‑End & Mobile Developer with over **7 years** of experience turning complex business requirements into elegant, high‑impact digital solutions. Specialized in building **native & hybrid iOS apps** and **robust web interfaces**—all with a user‑first approach and pixel‑perfect execution.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+- Proven track record with **MVC**, **MVVM**, and **VIPER** architectures  
+- Collaborative team player: designers, PMs, back‑end engineers  
+- Passionate about performance, code quality, and delightful UX  
 
-<hr>
+---
 
------
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
+## ✨ Highlights
 
-Last Edited on: 22/02/2021
+| Project        | Description                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| **Zona Maco**  | Interactive events listing, virtual map, artist profiles—elevating the art‑fair experience.  |
+| **UPocket**    | Official Panamericana University app: grades, attendance, schedules via REST & APNs.         |
+| **Eval Code**  | Real‑time iPadOS hackathon judging app using WebSockets for live scoring.                   |
+| **Tutoring**   | All‑in‑one tutorial platform with forum, calendar, and evaluation system for students.       |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SwiftUI-2AC120?style=flat&logo=swift&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/React_Native-222222?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-E34F26?style=flat&logo=svelte&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/CloudKit-007AFF?style=flat&logo=apple&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
+</div>
+
+---
+
+## 📋 Methodologies
+
+- **SCRUM** • **Agile**  
+- Test‑driven development (TDD) & Continuous Integration  
+- Regular code reviews and performance audits  
+
+---
+
+## 🎓 Certifications
+
+- **Google**: Foundations of User Experience (UX) Design  
+- **Apple**: App Development with Swift Associate  
+- **Apple**: App Development with Swift Certified User  
+
+---
+
+## 📞 Get In Touch
+
+Whether you’re looking to collaborate on cutting‑edge mobile experiences or just want to say hello—feel free to reach out!
+
+- ✉️ Email: [inaki.siguenza@example.com](mailto:inaki.siguenza@example.com)  
+- 🔗 LinkedIn: [linkedin.com/in/inaki‑siguenza](https://www.linkedin.com/in/inaki‑siguenza)  
+- 🐦 Twitter: [@inaki_siguenza](https://twitter.com/inaki_siguenza)  
+
+---
+
+<p align="center" style="font-size:0.8em; color:#aaa;">
+  Crafted with care 🍎 • Built for impact • © 2025 Iñaki Siguenza
+</p>
