@@ -1,9 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║   Iñaki Siguenza Sr. – iOS Developer | Front‑End & Mobile Expert  ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
 <p align="center">
   <img src="https://your‑avatar.url/avatar.png" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
 </p>
@@ -11,18 +5,6 @@
 <h1 align="center" style="font-weight: 300;">Iñaki Siguenza</h1>
 <p align="center" style="font-weight: 500; color: #6e6e6e;">
   Senior iOS Developer • Front‑End & Mobile Applications • UX Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/inaki‑siguenza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/inaki_siguenza" target="_blank">
-    <img src="https://img.shields.io/twitter/url" alt="Twitter">
-  </a>
-  <a href="mailto:inaki.siguenza@example.com">
-    <img src="https://img.shields.io/badge/Email‑D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
@@ -92,11 +74,6 @@ Whether you’re looking to collaborate on cutting‑edge mobile experiences or 
 - ✉️ Email: [inaki.siguenza@example.com](mailto:inaki.siguenza@example.com)  
 - 🔗 LinkedIn: [linkedin.com/in/inaki‑siguenza](https://www.linkedin.com/in/inaki‑siguenza)  
 - 🐦 Twitter: [@inaki_siguenza](https://twitter.com/inaki_siguenza)  
-
----
-
-<!-- GitHub contribution graph (“green squares”) -->
-[![Iñaki’s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isiguenza&theme=github)](https://github.com/Isiguenza)  [oai_citation_attribution:0‡GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph?utm_source=chatgpt.com) [oai_citation_attribution:1‡ashutosh00710.github.io](https://ashutosh00710.github.io/github-readme-activity-graph/?utm_source=chatgpt.com) [oai_citation_attribution:2‡DEV Community](https://dev.to/a8hok/how-i-made-my-github-readme-profile-2ng?utm_source=chatgpt.com)
 
 ---
 
