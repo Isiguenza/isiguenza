@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your‑avatar.url/avatar.png" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
+  <img src="assets/pp.png" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
 </p>
 
 <h1 align="center" style="font-weight: 300;">Iñaki Siguenza</h1>
