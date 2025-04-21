@@ -39,12 +39,13 @@ Highly driven Front‑End & Mobile Developer with over **7 years** of experience
 
 ## ✨ Highlights
 
-| Project        | Description                                                                                  |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| **Zona Maco**  | Interactive events listing, virtual map, artist profiles—elevating the art‑fair experience.  |
-| **UPocket**    | Official Panamericana University app: grades, attendance, schedules via REST & APNs.         |
-| **Eval Code**  | Real‑time iPadOS hackathon judging app using WebSockets for live scoring.                   |
-| **Tutoring**   | All‑in‑one tutorial platform with forum, calendar, and evaluation system for students.       |
+| Project         | Description                                                                                                           |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Sheetify**    | A Swift package to supercharge SwiftUI sheets—custom corner styling, adjustable detents, tap‑outside control, and multi‑step wizard flows. [GitHub](https://github.com/Isiguenza/Sheetify) |
+| **Zona Maco**   | Interactive events listing, virtual map, artist profiles—elevating the art‑fair experience.                          |
+| **UPocket**     | Official Panamericana University app: grades, attendance, schedules via REST & APNs.                                  |
+| **Eval Code**   | Real‑time iPadOS hackathon judging app using WebSockets for live scoring.                                            |
+| **Tutoring**    | All‑in‑one tutorial platform with forum, calendar, and evaluation system for students.                                |
 
 ---
 
@@ -91,6 +92,11 @@ Whether you’re looking to collaborate on cutting‑edge mobile experiences or 
 - ✉️ Email: [inaki.siguenza@example.com](mailto:inaki.siguenza@example.com)  
 - 🔗 LinkedIn: [linkedin.com/in/inaki‑siguenza](https://www.linkedin.com/in/inaki‑siguenza)  
 - 🐦 Twitter: [@inaki_siguenza](https://twitter.com/inaki_siguenza)  
+
+---
+
+<!-- GitHub contribution graph (“green squares”) -->
+[![Iñaki’s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isiguenza&theme=github)](https://github.com/Isiguenza)  [oai_citation_attribution:0‡GitHub](https://github.com/Ashutosh00710/github-readme-activity-graph?utm_source=chatgpt.com) [oai_citation_attribution:1‡ashutosh00710.github.io](https://ashutosh00710.github.io/github-readme-activity-graph/?utm_source=chatgpt.com) [oai_citation_attribution:2‡DEV Community](https://dev.to/a8hok/how-i-made-my-github-readme-profile-2ng?utm_source=chatgpt.com)
 
 ---
 
