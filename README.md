@@ -39,6 +39,7 @@ My background in native iOS development and modern web frameworks shapes how I d
 
 | Project | Contribution |
 | --- | --- |
+| **[Luma](https://www.lumaproductivity.app/)** | A calm productivity app for iPhone that brings reminders, to-dos, notes, and habits into one place, with urgent alarms, offline support, and cross-device sync. |
 | **[Sheetify](https://github.com/Isiguenza/Sheetify)** | A Swift package for SwiftUI sheets with custom corner styling, adjustable detents, tap-outside control, and multi-step wizard flows. |
 | **CityExpress by Marriott** | UX/UI design for a web portal, translating business requirements into clear flows and reusable interface patterns. |
 | **Stoyco** | Mobile product design, from wireframes and high-fidelity prototypes to collaboration with engineers on implementation. |
@@ -65,12 +66,6 @@ My background in native iOS development and modern web frameworks shapes how I d
 | **Web** | React, Svelte |
 | **Data & Services** | Firebase, CloudKit, SQL, APIs |
 | **Architecture** | MVC, MVVM, VIPER |
-
-## Education
-
-**Universidad Panamericana**  
-Animation & Videogames Engineering · 2018–2023  
-Project Management Major · 2025–2026
 
 ## Certifications
 
