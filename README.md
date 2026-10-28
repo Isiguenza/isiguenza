@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/25212788?v=4" alt="Iñaki Siguenza" width="150" style="border-radius:75px;" />
+  <img src="https://avatars.githubusercontent.com/u/25212788?v=4" alt="Iñaki Siguenza" width="150" style="border-radius:750px;" />
 </p>
 
 <h1 align="center" style="font-weight: 300;">Iñaki Siguenza</h1>
