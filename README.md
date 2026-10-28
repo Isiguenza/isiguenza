@@ -1,82 +1,87 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/25212788?v=4" alt="Iñaki Siguenza" width="150" style="border-radius:750px;" />
+  <img src="https://avatars.githubusercontent.com/u/25212788?v=4" alt="Iñaki Sigüenza" width="150" />
 </p>
 
-<h1 align="center" style="font-weight: 300;">Iñaki Siguenza</h1>
-<p align="center" style="font-weight: 500; color: #6e6e6e;">
-  Senior iOS Developer • Front‑End & Mobile Applications • UX Enthusiast
+<h1 align="center">Iñaki Sigüenza</h1>
+
+<p align="center">
+  Product Designer · UX/UI & Interaction Design · iOS & Front-End Engineering
+</p>
+
+<p align="center">
+  Mexico City, Mexico · <a href="mailto:isiguenzan@gmail.com">Email</a> · <a href="https://x.com/creativebolsita">X / Twitter</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Highly driven Front‑End & Mobile Developer with over **7 years** of experience turning complex business requirements into elegant, high‑impact digital solutions. Specialized in building **native & hybrid iOS apps** and **robust web interfaces**—all with a user‑first approach and pixel‑perfect execution.
+I'm a Product Designer with 7+ years of experience in front-end and mobile engineering. I turn complex business requirements into intuitive digital experiences, connecting user needs, product goals, and technical feasibility.
 
-- Proven track record with **MVC**, **MVVM**, and **VIPER** architectures  
-- Collaborative team player: designers, PMs, back‑end engineers  
-- Passionate about performance, code quality, and delightful UX  
+My background in native iOS development and modern web frameworks shapes how I design: clear interaction flows, reusable components, and interfaces that work as well as they look. I've contributed to products across education, e-commerce, and enterprise operations, including Zona Maco, CityExpress by Marriott, and Stoyco.
 
----
+- End-to-end product design, from discovery and user flows to prototypes and implementation handoff.
+- Scalable design systems with reusable components, tokens, and documentation.
+- Cross-functional collaboration with engineering, AI, and product teams.
+- A focus on accessibility, platform conventions, usability, and continuous iteration.
 
-## ✨ Highlights
+## Experience
 
-| Project         | Description                                                                                                           |
-| --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Sheetify**    | A Swift package to supercharge SwiftUI sheets—custom corner styling, adjustable detents, tap‑outside control, and multi‑step wizard flows. [GitHub](https://github.com/Isiguenza/Sheetify) |
-| **Zona Maco**   | Interactive events listing, virtual map, artist profiles—elevating the art‑fair experience.                          |
-| **UPocket**     | Official Panamericana University app: grades, attendance, schedules via REST & APNs.                                  |
-| **Eval Code**   | Real‑time iPadOS hackathon judging app using WebSockets for live scoring.                                            |
-| **Tutoring**    | All‑in‑one tutorial platform with forum, calendar, and evaluation system for students.                                |
+| Team | Role | Period | Focus |
+| --- | --- | --- | --- |
+| **Vyvo AI** | Product Designer & Product Manager | 2025 | End-to-end B2C product design, feature requirements, roadmap prioritization, design guidelines, and quality verification. |
+| **NXY Tecnología y Negocios** | Product Designer | Oct 2024 – Apr 2025 | UX/UI for CityExpress by Marriott and Stoyco, including user flows, prototypes, modular design systems, and engineering collaboration. |
+| **iOS Development Lab — Universidad Panamericana** | Product Design Lead | Aug 2021 – Oct 2025 | Led multidisciplinary teams, defined native iOS interaction patterns, and facilitated workshops and design critiques. |
+| **Zona Maco** | iOS Developer | Jan 2021 – Jul 2021 | Built the official iOS app with event listings, a virtual gallery map, talk schedules, and artist profiles. |
+| **Freelance** | Developer | Jul 2021 – Aug 2021 | Delivered mobile and web solutions across retail, education, and finance, from requirements through post-release support. |
 
----
+## Selected Work
 
-## 🛠️ Tech Stack
+| Project | Contribution |
+| --- | --- |
+| **[Sheetify](https://github.com/Isiguenza/Sheetify)** | A Swift package for SwiftUI sheets with custom corner styling, adjustable detents, tap-outside control, and multi-step wizard flows. |
+| **CityExpress by Marriott** | UX/UI design for a web portal, translating business requirements into clear flows and reusable interface patterns. |
+| **Stoyco** | Mobile product design, from wireframes and high-fidelity prototypes to collaboration with engineers on implementation. |
+| **Zona Maco** | Native iOS development for an art-fair experience spanning events, gallery navigation, talks, and artist discovery. |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SwiftUI-2AC120?style=flat&logo=swift&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/React_Native-222222?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-E34F26?style=flat&logo=svelte&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/CloudKit-007AFF?style=flat&logo=apple&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
-</div>
+## Design & Product
 
----
+**Practice:** UX/UI design, interaction design, information architecture, user flows, journey mapping, UX writing basics, and low- and high-fidelity prototyping.
 
-## 📋 Methodologies
+**Research & Validation:** User interviews, usability testing, iterative design reviews, and feedback-driven refinement.
 
-- **SCRUM** • **Agile**  
-- Test‑driven development (TDD) & Continuous Integration  
-- Regular code reviews and performance audits  
+**Systems & Standards:** Component libraries, design tokens, documentation, WCAG accessibility, and Apple's Human Interface Guidelines.
 
----
+**Product & Collaboration:** Feature logic, PRDs, roadmap prioritization, Scrum, and developer handoff.
 
-## 🎓 Certifications
+**Tools:** Figma, FigJam, Miro, and Notion.
 
-- **Google**: Foundations of User Experience (UX) Design  
-- **Apple**: App Development with Swift Associate  
-- **Apple**: App Development with Swift Certified User  
+## Engineering Background
 
----
+| Area | Technologies |
+| --- | --- |
+| **Native iOS** | Swift, SwiftUI |
+| **Cross-platform Mobile** | Flutter, Kotlin |
+| **Web** | React, Svelte |
+| **Data & Services** | Firebase, CloudKit, SQL, APIs |
+| **Architecture** | MVC, MVVM, VIPER |
 
-## 📞 Get In Touch
+## Education
 
-Whether you’re looking to collaborate on cutting‑edge mobile experiences or just want to say hello—feel free to reach out!
+**Universidad Panamericana**  
+Animation & Videogames Engineering · 2018–2023  
+Project Management Major · 2025–2026
 
-- ✉️ Email: [inaki.siguenza@example.com](mailto:inaki.siguenza@example.com)  
-- 🔗 LinkedIn: [linkedin.com/in/inaki‑siguenza](https://www.linkedin.com/in/inaki‑siguenza)  
-- 🐦 Twitter: [@inaki_siguenza](https://twitter.com/inaki_siguenza)  
+## Certifications
 
----
+- **Google** — Foundations of User Experience (UX) Design
+- **Apple** — App Development with Swift Associate
+- **Apple** — App Development with Swift Certified User
 
-<p align="center" style="font-size:0.8em; color:#aaa;">
-  Crafted with care 🍎 • Built for impact • © 2025 Iñaki Siguenza
-</p>
+## Get in Touch
+
+Interested in collaborating on thoughtful digital products? Let's connect.
+
+- **Email:** [isiguenzan@gmail.com](mailto:isiguenzan@gmail.com)
+- **X / Twitter:** [@creativebolsita](https://x.com/creativebolsita)
+- **GitHub:** [Isiguenza](https://github.com/Isiguenza)
